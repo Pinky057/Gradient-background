@@ -2,4 +2,4 @@
 It's All About Gradient
 
 ## Animated Gradientbackground
-[!ss]()
+![ss](animatedbacground.gif)
